@@ -1,0 +1,9 @@
+Terminology | Vernacular
+========================
+
+Entity
+Collection
+
+
+
+
