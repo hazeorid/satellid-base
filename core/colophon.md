@@ -74,7 +74,8 @@ Laverna
 Paperwork
 
 Charlie App
-Kippt, Inc
+Kippt | Inc
+Gimme Bar
 Addvocate
 
 Mendeley
@@ -106,6 +107,14 @@ Impactstory
 
 OpenBrand
 pr.co
+
+### Social Network
+
+Google+
+Twitter
+Facebook
+LinkedIn
+SkillPages
 
 ### Catalog
 

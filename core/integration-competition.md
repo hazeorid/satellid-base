@@ -186,6 +186,7 @@ Pinboard
 Kippt
 Likeastore
 Listly
+Gimme Bar
 
 ### Management
 
@@ -344,6 +345,17 @@ Sunrise
 Share As Image
 
 WOT (Web of Trust)
+
+Unstructured:Specific
+---------------------
+
+### Entrepreneurship
+
+Zana
+
+### Design
+
+styleguides.io
 
 Unstructured:Hardware
 ---------------------

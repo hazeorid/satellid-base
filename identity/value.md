@@ -23,7 +23,7 @@ Every knowledge can consists of various unit of information
 
 Retain and retrieve your knowledge, as quickly and effective as possible
 Organize your knowledge in a fast and structured way
-Enhance your knowledge and organize it best
+Enhance your knowledge and organize it best with a system
 Increase your effectiveness and reduce clutter in knowledge management
 Better information management skill and expertise for you
 Manage you knowledge, together
@@ -59,6 +59,8 @@ Software Sector
 ---------------
 
 Backup & Sync
+  Automatic synchronization between apps
+  Manually managed synchronization between networks
 Development
 Education & Reference
 File Management
@@ -201,6 +203,9 @@ Distributed Brain
 Shared Same Knowledge and Language
 Not TLDR Version of Wiki
 Metadata and URL Scrapper
+Curated Valid Links | Preventing Typosquatting
+Organized Question & Answer or FAQ List
+Table of Contents at a Glance
 
 Idea Capture System
 Idea Backlogging

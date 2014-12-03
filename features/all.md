@@ -106,7 +106,6 @@ Emoji | Emoticon
   Custom
 Sound
 
-
 Transfer
 --------
 
@@ -119,8 +118,6 @@ Merge
   Different
 
 Drag and Drop
-
-
 
 Connection/Route
 ----------------
@@ -227,6 +224,15 @@ Notify
 
 Connecting action in the platorm with the other platform respectfully. Like IFTTT but deeper.
 Example: when liking a unit, it can immediately post/tweet that.
+
+Communication
+-------------
+
+Message
+  Quick messaging
+  Direct message
+Chat
+  Group chat
 
 Control
 -------
@@ -344,7 +350,6 @@ Recommended for you
 Related to
 More content like
 
-
 Tracking
 --------
 
@@ -352,10 +357,6 @@ Usage
   Time
 
 Software Installation
-
-
-
-
 
 Mix
 ---
@@ -367,8 +368,6 @@ Optional
 
 Lab/test feature
 Enable and Disable
-
-Quick messaging
 
 Reference
 ---------

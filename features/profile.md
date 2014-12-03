@@ -86,6 +86,10 @@ Points
 Badge
 Contribution Value
 
+Invite | Referal
+  Become premium user
+  Add more storage space
+
 View Segment
 ------------
 
