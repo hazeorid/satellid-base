@@ -6,20 +6,18 @@ Explanatory Keys
 
 ### Main Principle
 
-Every knowledge can consists of various unit of information
+Every knowledge must be structured, linked to each others, and can transclude of various unit of data or information
 
 ### Principles
 
-Modular
-Structured
-Decentralized
-Semantic
-Linked
-Loosely coupled
-Tool sets
-Card oriented
-Document-based
-Microservices
+1. Micro
+2. Linked
+3. Modular
+4. Semantic
+5. Structured
+6. Decentralized
+7. Document based
+8. Knowledge oriented
 
 ### Range Area
 
