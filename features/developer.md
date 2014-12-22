@@ -5,6 +5,8 @@ Open Public API
 ---------------
 
 REST API
+  API Key
 Hooks
-SDK
+SDK | Software Development Kit
+Integrated Library
 

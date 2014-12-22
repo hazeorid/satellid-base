@@ -19,9 +19,15 @@ Unobtrusiveness vs. and beauty
 General
 -------
 
-Responsive and Adaptive GUI
-Command Line Mode
-Broad/Huge Integration
+The Superbar
+
+Responsive and adaptive GUI
+Command line interface mode
+Very modular integration
+
+Multi-touch support
+Cross platform and browser
+Responsive and mobile friendly
 
 Suggestions
 Multilinguism
@@ -45,16 +51,19 @@ Preload
 
 ### Action
 
-Edit
+Create
+Read
+Update/Edit
+Delete | Remove
+Copy | Duplicate
+Paste | Place
 Move
-Duplicate | Copy
-Remove | Delete
 
 Import
   Automatic import
   Manual import
 Export
-  {data-file-type}
+  To various {data-file-type}
 
 ### Typing/Editing
 
@@ -92,6 +101,7 @@ Standard
 Natural Language
   Ref: Gmail, Producteev
 Voice
+  Speech Recognition | Web Speech API
 
 ### Output
 
@@ -122,11 +132,10 @@ Drag and Drop
 Connection/Route
 ----------------
 
+Offline capable
 Auto reconnect
 Corrector/Redirector
-
 Live | Dynamic Loading or Result Update
-
 
 Multi
 -----
@@ -268,6 +277,13 @@ Trace
 Page History
 Command History
 Search History
+
+### Consistency
+
+Temporary
+  Timed delete
+Persistent
+  Always backed up
 
 Convert
 -------

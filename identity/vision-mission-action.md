@@ -15,6 +15,8 @@ Vision
 * That is revolutionary in personal up to enterprise even global positive impact
 * Powered with AI and machine learning
 * Eradicate search engine results confusion and prioritize users data
+* Internet of Things
+* Real time voice analysis for gathering knowledge
 
 Mission
 -------

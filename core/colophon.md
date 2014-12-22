@@ -42,6 +42,8 @@ Sandstorm
 ownCloud
 Jumpstarter
 
+Eager
+
 ### Management
 
 + Trello

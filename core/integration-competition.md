@@ -12,7 +12,6 @@ Connect/Link
 URL Address
 Import Data
 
-
 Structured:Fields
 -----------------
 
@@ -53,6 +52,8 @@ hew.io
 AlternativesTo
 gdgt | Engadget
 FindTheBest
+
+Eager
 
 ### Education
 
@@ -315,6 +316,7 @@ DeviantArt
 ### Audio
 
 SoundCloud
+Last.fm
 Stitcher
 
 ### Videos

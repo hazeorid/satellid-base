@@ -4,6 +4,3 @@ Terminology | Vernacular
 Entity
 Collection
 
-
-
-

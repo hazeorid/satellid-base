@@ -4,17 +4,25 @@ Product Technology
 Innovation
 ----------
 
-Open Micro Knowledge Management PLatform/System
+Ubiquitous system for both digital and analog
+Open micro knowledge management platform/system
 Natural GUI
-Context Aware Unit
-Linked Knowledge
-Knowledge Inclusion
+Context aware unit
+Linked and structured knowledge
+Knowledge inclusion
 
 Third Party Technology
 ----------------------
 
 Linux
-Node.js
-Chrome
+  Ubuntu
+  Arch
+JavaScript
+  JavaScript
+  Node.js
+  Meteor
+Chromium | Blink
+  Google Chrome
 Android
+iOS
 

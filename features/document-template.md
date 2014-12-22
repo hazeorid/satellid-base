@@ -36,6 +36,9 @@ Type
 Normal
 Subcription
 Archive
+Multi Side Version
+  Server + Client
+  Consultant + Client
 
 ### Standard
 
@@ -48,8 +51,14 @@ Range | ISO 8601 duration format
 Basic/Meta
 ----------
 
++ ID
++ Attribute
++ Property
++ Value
+
 ### Primary
 
+ID
 Title
 Subtitle
 Author
@@ -68,6 +77,7 @@ Location
 
 Content
 Image | Screenshot
+Video
 
 ### Taxonomy
 
@@ -81,6 +91,7 @@ Tag
 ### Media
 
 Icon | Favicon | Logo
+Profile Picture | Avatar
 Image
 
 ### Misc
@@ -289,8 +300,8 @@ Finance
 
 ## Asset/Expense
 
-Plain
------
+Plain Text
+----------
 
 ## Notes
 
@@ -305,9 +316,8 @@ Board
 
 Journalism
 
-
-Bibliography
-------------
+References/Bibliography
+-----------------------
 
 Book
 Paper
@@ -331,8 +341,9 @@ Transcription
 
 
 
-Notebooks
----------
+
+General Planning
+----------------
 
 Vacation
 Travel
@@ -355,7 +366,7 @@ Compact
 Minimal
 Maximal
 
-### Layput
+### Layout
 
 One
 Combination

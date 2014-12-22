@@ -9,6 +9,7 @@ Title
 *Product Name*
 
 {NAME}
+Satellid
 
 Noun
 ----
@@ -53,7 +54,7 @@ Alias
 Codename
 --------
 
+Satellite
 Planet
 Sun
-
 

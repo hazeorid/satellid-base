@@ -3,11 +3,11 @@ Profile Identity
 
 ## Name of service/product
 
-{NAME} by Hazeorid
+Satellid by Hazeorid
 
 ## Website URL
 
-http://{NAME}
+http://satellid.com
   .com
   .org
   .net
@@ -45,10 +45,12 @@ Case Study
 
 ## Social
 
-@{NAME}
-@{NAME}Dev
+@Satellid
+@SatelidBot
+@SatelidDevelop
+@SatelidDesign
 
-+{NAME}
++Satellid
 
 ## Blog RSS or Feed URL
 

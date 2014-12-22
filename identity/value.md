@@ -4,82 +4,85 @@ Identity Value
 Explanatory Keys
 ----------------
 
-### Paradigm
+### Main Principle
+
+Every knowledge can consists of various unit of information
+
+### Principles
 
 Modular
 Structured
 Decentralized
 Semantic
 Linked
-Loosely Coupled
-Tool Sets
-Name card entity
+Loosely coupled
+Tool sets
+Card oriented
 Document-based
 Microservices
 
-Every knowledge can consists of various unit of information
+### Range Area
+
+Ecosystem Friendly
+
+- Strict
+- Database
+- Spreadsheet
++ Structured Document
+- Plain Text
+- Abstract
 
 ### Benefit
 
-Retain and retrieve your knowledge, as quickly and effective as possible
-Organize your knowledge in a fast and structured way
-Enhance your knowledge and organize it best with a system
-Increase your effectiveness and reduce clutter in knowledge management
-Better information management skill and expertise for you
-Manage you knowledge, together
-Avoid or prevent too much or bloated freeform data
-More manageble knowledge and information that focus on what really matters
-Get things done in a short amount of time
-Recover forgotten things in mind
-Distributing decentralized local knowledge onto global knowledge
-Feeding our motivation and curiosity
++ Retain and retrieve your knowledge, as quickly and effective as possible
++ Organize your knowledge in a fast and structured way
++ Enhance your knowledge and organize it best with a system
++ Increase your effectiveness and reduce clutter in knowledge management
++ Better information management skill and expertise for you
++ Manage you knowledge, together
++ Avoid or prevent too much or bloated freeform data
++ More manageble knowledge and information that focus on what really matters
++ Get things done in a short amount of time
++ Recover forgotten things in mind
++ Distributing decentralized local knowledge onto global knowledge
++ Feeding our motivation and curiosity
 
 {TODO:CHANGE}
-Increase productivity and improve communication
-Save productivity, time, and money
-Drive efficiency and transparency
-Inspire openness and innovation
-Develop strong and trusted relationships
++ Increase productivity and improve communication
++ Save productivity, time, and money
++ Drive efficiency and transparency
++ Inspire openness and innovation
++ Develop strong and trusted relationships
 
 ### Target
 
 For public or personal, even private up to enterprise
 
-### Element
-
-Digital
-Information
-Knowledge
-Application
-Platform
-System
-Culture
-
 Software Sector
 ---------------
 
-Backup & Sync
-  Automatic synchronization between apps
-  Manually managed synchronization between networks
-Development
-Education & Reference
-File Management
-File Sharing
-Office & Productivity
-Online Web Service
-Utilities
-Social
-Web Browser
++ Backup & Sync
+  + Automatic synchronization between apps
+  + Manually managed synchronization between networks
++ Development
++ Education & Reference
++ File Management
++ File Sharing
++ Office & Productivity
++ Online Web Service
++ Utilities
++ Social
++ Web Browser
 
 Input Source
 ------------
 
-Intranet
-Dataset, data warehouses, and knowledge repositories
-Decision support tools
-Groupware for supporting collaboration
-Networks of knowledge workers
-Internal expertise
++ Intranet
++ Dataset, data warehouses, and knowledge repositories
++ Decision support tools
++ Groupware for supporting collaboration
++ Networks of knowledge workers
++ Internal expertise
 
 Purpose
 -------
@@ -113,7 +116,7 @@ Implement system and processes with appropriate change management and iterative 
 Custom Tagline
 --------------
 
-{NAME} by Hazeorid is a structured cross-platform knowledge organizer platform for individual and business
+Satellid by Hazeorid is a structured cross-platform knowledge organizer platform for individual and business
 
 + Organize Your Knowledge
 + One data & knowledge management solution system to connect them all
@@ -122,6 +125,7 @@ Custom Tagline
 + Remove duplication by optimally found a common pattern
 
 + Next generation knowledge base
++ Connecting various different knowledge bases
 + The only reliable information storage system you need
 + A JSON/CSON editor designed for information/knowledge organization
 + As simple as Markdown, stored in JSON
@@ -165,12 +169,12 @@ Foundation and Traits
 + Designed to store quickly with the fewest steps possible
 + Optimized for storing various kinds of knowledge with data with no formatting needed
 + Keeping things smaller and optimized, prevent storage bloat
-+ Connecting varios different knowledge bases
 + Liberate user and data since the beginning
 + Complete authorship control
 + Seamless experience across systems and devices
 + More focus on valuable content than style
 + Managing both online and offline self-presence information at once
++ Small footprint and require minimum resources
 
 Purview of Pledge
 -----------------
@@ -195,6 +199,7 @@ Practical Usage
 ---------------
 
 Universal Clipboard
+Cross System Clipboard
 Structured Outliner
 Knowledge Ecosystem
 Life and Knowledge Journal
@@ -405,32 +410,6 @@ Travel
 Knowledge Base
 Documentation
 
-
-Target Users
-------------
-
-Diagonal
-Anyone
-
-Individuals
-Teams
-Students
-Educators
-Teachers
-Managers
-Creatives
-Professionals
-Startups
-Organizations
-
-### Specific
-
-Entrepreneurs
-Strategy Consultants
-Research Analysts
-Organization Managers
-Data Analysts
-CTO
 
 Appearent Use
 -------------

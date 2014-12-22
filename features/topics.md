@@ -1,7 +1,6 @@
 Topics
 ======
 
-
 All
 Internet
 Technology
@@ -62,8 +61,4 @@ Social Science
 Statistics and Data Analysis
 Technology
 Travel
-
-
-
-
 
