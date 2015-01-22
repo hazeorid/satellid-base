@@ -21,6 +21,7 @@ Why | Pain Reason
 
 + Most knowledge information that we know are scattered across different documents, applications, and systems
 + Most people don't know how and where to start reading information or gathering knowledge for specific task, project, or development
++ Most way of sending message like chat and email are for conversational but not for exchanging knowledge
 + Most tools are complicated or limited, also only lives in one system
 + Most text notes are not accurate, less precise, or not informative enough
 + Most systems remain just when online only and stuck within proprietary system
@@ -37,11 +38,14 @@ Knowledge Management System
 
 ### Refined Solution
 
-Rapid Micro Knowledge Management System and Platform
+Satellid: Open/Rapid/Micro Knowledge Manager
 
 ### Scientific Approach
 
-Structured, Modular, Linked, and Transcluded Micro Knowledge Management System/Platform Using Web Technology with Node.js and JSON-LD
++ Short Scientific
+  + Satellid: Open Rapid Micro Knowledge Manager Using Web Technology with JavaScript and Linked Data
++ Long Scientific
+  + Satellid: Open, Rapid, Modular, Structured, Linked, and Transcluded Micro Knowledge Management System/Platform Using Web Technology with JavaScript and Linked Data
 
 Who | Prospected Customers
 --------------------------

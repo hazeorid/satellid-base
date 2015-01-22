@@ -10,6 +10,11 @@ Synced with document
 Identity
 --------
 
+### Personalization
+
+Color Base
+Theme
+
 ### Avatar
 
 Placeholder | Generated

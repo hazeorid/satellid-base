@@ -30,8 +30,9 @@ Digital Software Product
 ### Categorized Solution
 
 + Standard: Knowledge Management System
-+ Refined: Rapid Micro Knowledge Management System and Platform
-+ Scientific: Modular, Structured, Linked, and Transcluded Micro Knowledge Management System/Platform Using Web Technology with Node.js and JSON-LD
++ Refined: Rapid Micro Knowledge Manager
++ Short Scientific: Rapid Micro Knowledge Manager Using Web Technology with Node.js and JSON-LD
++ Long Scientific: Open, Rapid, Modular, Structured, Linked, and Transcluded Micro Knowledge Management System/Platform Using Web Technology with Node.js and JSON-LD
 
 ### System Benefits
 

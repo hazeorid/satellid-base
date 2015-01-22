@@ -6,18 +6,20 @@ Explanatory Keys
 
 ### Main Principle
 
-Every knowledge must be structured, linked to each others, and can transclude of various unit of data or information
+Every knowledge is modularly small, must be structured, linked to each others, and can transclude of various unit of data or information
 
 ### Principles
 
-1. Micro
-2. Linked
-3. Modular
-4. Semantic
-5. Structured
-6. Decentralized
-7. Document based
-8. Knowledge oriented
+1. Open
+2. Rapid
+3. Micro
+4. Linked
+5. Modular
+6. Structured
+7. Transcluded
+8. Decentralized
+9. Template based
+10. Knowledge oriented
 
 ### Range Area
 
@@ -75,15 +77,16 @@ Software Sector
 Input Source
 ------------
 
-+ Intranet
++ Single or personal information
++ Organization or company intranet
 + Dataset, data warehouses, and knowledge repositories
 + Decision support tools
 + Groupware for supporting collaboration
 + Networks of knowledge workers
 + Internal expertise
 
-Purpose
--------
+Purpose Advantages
+------------------
 
 Improved performance
 Competitive advantage
@@ -216,13 +219,6 @@ Idea Backlogging
 Todo List
 Resource List
 
-Personal Memory Recorder
-Personal Organizer
-Personal Data Manager
-Personal Information Manager
-Personal Dictionary
-Personal Encyclopedia
-
 Micro Dictionary
 Micro Encylopedia
 
@@ -250,11 +246,35 @@ Microlearning
 Resource Sheets
 Tool sheets
 
+Home Inventory List
+Office Inventory List
+
+Study Report
+Meeting Notulency Report
+
 Personal Catalogue
 Product Catalogue
 
 Currated Knowledge
 Currated Information
+Currated Database
+Currated Publication
+Currated Research
+
+Open Publication Hub
+Open Research Hub
+Open Theses Hub
+Supplementary Resources
+  Datasets
+  Raw data
+  Complet results
+  Unpublished research
+  Figures
+  Various media files
+
+Personal Global Status
+  Auto update to social network
+  Auto responder
 
 Library Collection
 Glossary Collection
@@ -293,21 +313,29 @@ Collective Cheat Sheet
   + Username
   + Password
 	+ API Key
++ Conversation Saver
+  + Person
+  + Topic
+  + Content
 
-+ Personal Profile
-  + Short Biography
-  + Personal Card
-  + Business Card
-+ Family Profile
-  + Family Tree
++ Personal Database
++ Personal Information Manager (PIM)
++ Personal Data Manager (PDM)
++ Personal Data Asisstant (PDA)
++ Personal Knowledge Management (PKM)
++ Personal Memory Recorder
++ Personal Organizer
++ Personal Data Manager
++ Personal Information Manager
++ Personal Dictionary
++ Personal Encyclopedia
++ Personal Notes and Journal
 
 + Knowledge Organizer
 + Data Organizer
 + Information Organizer
 
 + Knowledge Data Storage
-+ Personal Database
-+ Personal Knowledge Management (PKM)
 
 + Interactive Database
 
@@ -319,22 +347,44 @@ Collective Cheat Sheet
 + Structured Knowledge Data
 + Structured Note Taking
 
-+ Micro News
-  + Twitter
-  + Reddit
-  + Hacker News
-  + Designer News
-  + Product Hunt
-
 + Distributed and Decentralized Directory
 + Educative Decision Maker
 + Data Document Management System
 + Database Interface for Human
 + Product or Publication List
-+ Programmable data document with or without code
-+ DIY Knowledge Base
 + Seamless Data Management
-+ Knowledge Management Made Open and Fun
+
+Store Scope
+-----------
+
++ Person/Personal Profile
+  + Categorized
+  + Short Biography
+  + Personal Card
+  + Business Card
++ Family Profile
+  + Family Members
+  + Family Tree
++ Address Book
++ Calendar Dates
+  + Birthdays
+  + Anniversaries
+  + Appointments and meetings
++ Education Records
++ Alerts and reminders
++ Email and instant message archives
++ Fax communications, voicemail
++ RSS/Atom feeds
++ References
++ Scientific references
++ Legal Documents
++ Websites of interest
++ Micro News Collection
+  + Twitter
+  + Reddit
+  + Hacker News
+  + Designer News
+  + Product Hunt
 
 Example Use Case
 ----------------

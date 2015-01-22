@@ -53,6 +53,8 @@ AlternativesTo
 gdgt | Engadget
 FindTheBest
 
+VimAwesome
+
 Eager
 
 ### Education
@@ -85,6 +87,8 @@ Geni
 
 Gravatar
 DandyID
+
+Refresh
 
 ### Editor
 
@@ -125,6 +129,7 @@ Google
 Etherpad
 Hackpad
 
+Syncthing
 Dropbox
 Box
 OneDrive
@@ -240,7 +245,9 @@ ChallengePost
 
 TLDRLegal
 
-### Wiki/Encyclopedia
+### Information/Wiki/Encyclopedia
+
+Wordnik
 
 Wikipedia
 Wikia
@@ -271,10 +278,15 @@ StartHQ
 GetApp
 VersionEye
 
-### Notes/Log
+### Blog/Notes/Log
+
+Medium
+Ghost
 
 Evernote
 Laverna
+
+Gnome Evolution
 
 Inc
 Swipes

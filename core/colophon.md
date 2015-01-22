@@ -36,6 +36,7 @@ import.io
 Google
   Google Contacts
 SerKey
+Syncthing
 Dropbox
 
 Sandstorm
@@ -56,17 +57,23 @@ Eager
 + Todo.txt
 + VimOutliner
 
++ Pass
+
 ### Encyclopedia
 
 Wikipedia
 TiddlyWiki
-Knol
+Google Knol
+Google Notebook
 Annotum
 Liquid
 
 Natural History Museum
 
 ### Information
+
+DEVON
+Notational Velocity
 
 Evernote
   Hello
@@ -75,10 +82,15 @@ Workflowy
 Laverna
 Paperwork
 
+Gnome Evolution
+KDE Kontact
+Chandler
+
 Charlie App
 Kippt | Inc
 Gimme Bar
 Addvocate
+sniphr
 
 Mendeley
 figshare
@@ -89,6 +101,12 @@ Turtl
 
 Wayfinder
 Cheatography
+BrandColors
+
+### Desktop
+
+XFCE
+BumpTop
 
 ### Book
 
@@ -109,6 +127,7 @@ Impactstory
 
 OpenBrand
 pr.co
+Razuna
 
 ### Social Network
 
@@ -124,12 +143,15 @@ Product Hunt
 StartHQ
 GetApp
 AppVita
+Leanstack
+Stackeo
 
 Binpress
 
 Mashape
 
 Awesome | A curated list of awesome lists
+velikanov/opensource-candies
 
 ### Editor
 

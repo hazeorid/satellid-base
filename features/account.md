@@ -16,7 +16,7 @@ Delete
 All fields can be changed later
 For username, limit to 1 change per month
 
-Sign Up/In
+Registar/Sign Up/In
 ----------
 
 ### Classic

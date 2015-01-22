@@ -4,8 +4,8 @@ Premium Features
 Segment
 -------
 
-Full Premium
-Choose Only-Selected-Feature Premium
+Full Premium: $5-$50/month
+Choose Only-Selected-Feature Premium: $0.5/feature
 
 Purpose
 -------
@@ -61,6 +61,8 @@ Edit multiple documents at once
 
 ### Automation
 
+Natural Task
+  Social Activity
 Scheduler
 Cron job
 Concurrent process

@@ -34,6 +34,7 @@ Multilinguism
 Shelf and lists
 
 Require no native installation if applicable
+Support for multimedia and colors
 
 Control
 -------
@@ -112,6 +113,7 @@ Flair
 
 Emoji | Emoticon
   Default
+    Emoji One | Google | Twitter | iOS | Windows
   Extra
   Custom
 Sound
@@ -120,14 +122,31 @@ Transfer
 --------
 
 Upload
+  From local (hard disk/drive)
+  From web/internet
+  From connected network
+  From various (webcam, phone)
 Download
-Sync
+  To local (hard disk/drive)
+  To web/internet
+  To
+Synchronization
 
 Merge
   Same
   Different
 
 Drag and Drop
+
+Extension
+---------
+
+### Context Menu
+
+Copy
+Edit
+Save
+Share
 
 Connection/Route
 ----------------

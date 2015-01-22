@@ -13,7 +13,7 @@ Registering
 -----------
 
 Feel Welcomed | Simplest Step
-Free Ride | Can Try Before Sign Up
+Free Ride | Can Try Before Register
 
 Using
 -----
