@@ -374,13 +374,14 @@ styleguides.io
 Unstructured:Hardware
 ---------------------
 
-Estimote
+Estimote Beacon
 
 Unstructured:Analog
 -------------------
 
 Moleskine
 Filofax
+Bullet Journal
 
 
 Competition or Complement Market

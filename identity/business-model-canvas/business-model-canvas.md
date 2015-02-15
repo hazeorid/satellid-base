@@ -12,8 +12,8 @@ Value Propositions
 Channels
 Customer Relationships
 Revenue Streams
-Key Partners
 Key Resources
 Key Activities
+Key Partners
 Cost Structures
 

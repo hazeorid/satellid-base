@@ -12,6 +12,8 @@ http://satellid.org
 http://satellid.io
 http://satellid.net
 http://satell.id
+http://satellid.space
+http://satellid.technology
 http://satellid.codes
 http://satellid.systems
 http://satellid.community

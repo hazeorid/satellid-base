@@ -19,7 +19,7 @@ Unobtrusiveness vs. and beauty
 General
 -------
 
-The Superbar
+Superbar
 
 Responsive and adaptive GUI
 Command line interface mode
@@ -35,6 +35,9 @@ Shelf and lists
 
 Require no native installation if applicable
 Support for multimedia and colors
+
+Self-hosted available
+BYOS (bring your own server)
 
 Control
 -------

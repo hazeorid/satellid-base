@@ -30,8 +30,8 @@
      inkscape:window-height="744"
      id="namedview50"
      showgrid="false"
-     inkscape:zoom="0.079296628"
-     inkscape:cx="1872.5368"
+     inkscape:zoom="0.19979033"
+     inkscape:cx="1131.7602"
      inkscape:cy="334.87692"
      inkscape:window-x="0"
      inkscape:window-y="24"
@@ -185,42 +185,44 @@
      inkscape:label="logos"
      style="display:inline">
     <g
-       transform="translate(-3.4776491e-5,4.1603416e-5)"
-       id="g4252"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       style="display:inline"
+       id="g4727"
+       transform="translate(-4.5000001e-5,-2999.8002)"
+       inkscape:export-xdpi="48"
+       inkscape:export-ydpi="48">
       <g
-         transform="translate(-555.56575,1129.9064)"
-         id="g4648">
+         transform="translate(-265.46573,-1693.9154)"
+         id="g4668">
         <path
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0064ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           d="m 555.56576,-1130.0303 999.93334,0 0,999.93337 -999.93334,0 z"
-           id="rect9114-2"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f39c12;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+           d="m 265.4658,4693.5916 999.9333,0 0,999.9334 -999.9333,0 z"
+           id="rect9114-2-1-0"
            inkscape:connector-curvature="0" />
         <path
            inkscape:connector-curvature="0"
-           id="path4031"
-           d="m 1055.5324,-630.06361 499.9667,499.96663 -999.93334,0 z"
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0078ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+           id="path4031-3-0"
+           d="m 765.43244,5193.5583 499.96666,499.9666 -999.9333,0 z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff9f05;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
            sodipodi:nodetypes="cccc" />
         <path
            sodipodi:nodetypes="cccc"
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#008cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           d="m 1055.5325,-630.06361 499.9666,499.96668 0,-999.93337 z"
-           id="path4044"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f1c40f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+           d="m 765.43254,5193.5583 499.96656,499.9667 0,-999.9334 z"
+           id="path4044-2-7"
            inkscape:connector-curvature="0" />
         <path
            sodipodi:nodetypes="cccc"
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00a0ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-           d="m 1055.5324,-630.06366 499.9667,-499.96664 -999.93334,0 z"
-           id="path4046"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffcc01;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+           d="m 765.43244,5193.5582 499.96666,-499.9666 -999.9333,0 z"
+           id="path4046-7-4"
            inkscape:connector-curvature="0" />
       </g>
       <g
-         id="g5093">
+         transform="translate(3.7148437e-5,2999.8001)"
+         id="g5093-4">
         <path
            inkscape:connector-curvature="0"
-           id="rect4150"
+           id="rect4150-9"
            transform="matrix(0.99993337,0,0,0.99993337,0,-0.12392363)"
            d="m 200,200 0,100 0,100 129.28906,0 L 600,670.71094 600,700 l -200,0 0,-100 -200,0 0,200 200,0 400,0 0,-100 0,-100 -129.28906,0 L 400,329.28906 400,300 l 200,0 0,100 200,0 0,-100 0,-100 -200,0 -200,0 -200,0 z"
            style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4" />

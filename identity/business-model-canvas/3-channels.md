@@ -121,7 +121,7 @@ Channels
 + Zazzle
 + Etsy
 
-### Open Source
+### Contribution Hub
 
 + I Love Open Source
 + Gratipay

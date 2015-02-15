@@ -45,7 +45,7 @@ Satellid: Open/Rapid/Micro Knowledge Manager
 + Short Scientific
   + Satellid: Open Rapid Micro Knowledge Manager Using Web Technology with JavaScript and Linked Data
 + Long Scientific
-  + Satellid: Open, Rapid, Modular, Structured, Linked, and Transcluded Micro Knowledge Management System/Platform Using Web Technology with JavaScript and Linked Data
+  + Satellid: Open, Rapid, Modular, Structured, Linked, and Transcluded Micro Knowledge Management System/Platform Using Web Technologies and Linked Data
 
 Who | Prospected Customers
 --------------------------

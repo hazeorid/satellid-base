@@ -1,6 +1,12 @@
 Premium Features
 ================
 
+Method
+------
+
+Sell it before build
+Notify people when it is available
+
 Segment
 -------
 
