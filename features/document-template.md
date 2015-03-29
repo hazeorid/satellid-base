@@ -1,3 +1,62 @@
+- [Document Template](#document-template)
+  - [Core](#core)
+  - [Type](#type)
+    - [Standard](#standard)
+    - [Time](#time)
+  - [Basic/Meta](#basicmeta)
+    - [Primary](#primary)
+    - [Taxonomy](#taxonomy)
+    - [Media](#media)
+    - [Misc](#misc)
+  - [Person](#person)
+    - [Profile](#profile)
+    - [Curriculum Vitae](#curriculum-vitae)
+    - [Academic](#academic)
+    - [Portfolio](#portfolio)
+  - [Organization/Company](#organizationcompany)
+    - [Profile](#profile-1)
+  - [Account/Credentials](#accountcredentials)
+  - [](#)
+  - [Social/Contact](#socialcontact)
+    - [Family](#family)
+    - [Friends](#friends)
+    - [Customer](#customer)
+  - [Application](#application)
+    - [...](#)
+  - [List/Directory](#listdirectory)
+    - [Anything](#anything)
+    - [People](#people)
+    - [Place](#place)
+    - [Hardware/Software](#hardwaresoftware)
+    - [Rank](#rank)
+  - [Guide](#guide)
+    - [Study](#study)
+    - [Recipe](#recipe)
+  - [Time](#time-1)
+  - [Event](#event)
+  - [Calendar](#calendar)
+  - [Documentation](#documentation)
+    - [Tutorial](#tutorial)
+    - [Operation](#operation)
+  - [Finance](#finance)
+  - [Asset/Expense](#assetexpense)
+  - [Plain Text](#plain-text)
+  - [Notes](#notes)
+  - [Paper](#paper)
+  - [Presentation](#presentation)
+    - [Story](#story)
+  - [References/Bibliography](#referencesbibliography)
+  - [Multimedia](#multimedia)
+    - [Slide](#slide)
+    - [Audio](#audio)
+    - [Video](#video)
+  - [General Planning](#general-planning)
+  - [View](#view)
+    - [Size](#size)
+    - [Layout](#layout)
+    - [Mode](#mode)
+  - [Custom](#custom)
+
 Document Template
 =================
 
@@ -24,7 +83,7 @@ http://xmlns.com/foaf/spec/
   - Merge with the same or different document
 - Could
   - Has multiple occurrences
-	  - Reminder: Alarm, Due Date
+    - Reminder: Alarm, Due Date
 - Must
   - Include the source
 - Use case
@@ -127,10 +186,10 @@ Accessibility
 
 *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  
 
-Profile/CV
-----------
+Person
+------
 
-### Personal
+### Profile
 
 Full Name
   First
@@ -162,6 +221,25 @@ Publication
   Cited papers
 
 ### Portfolio
+
+Organization/Company
+--------------------
+
+### Profile
+
+Name
+Industry
+Founded
+Location
+  Address
+    Country
+    Address Line 1-3
+    City
+    State/Region
+    Postal Code
+Meta
+  Vision
+  Mission
 
 Account/Credentials
 -------------------

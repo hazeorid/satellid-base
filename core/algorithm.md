@@ -70,7 +70,7 @@ Template
 2. Either:
    * 2.a. User input a new Data with selected Template
    * 2.b. User complete the information of the new Template, if the Template is not found
-3. If Data is inputted, System Create and Store the new data into the System
-4. If new Template is inputted, System Create and Store the new Data into the System
+3. If Data is inputted, System Create and Store the new Data into the System
+4. If new Template is inputted, System Create and Store the new Template into the System
 5. User can also Update and Delete the Template
 

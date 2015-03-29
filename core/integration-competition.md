@@ -23,13 +23,7 @@ Freebase
 DataPad
 Silk
 
-Crowdbase
-Knowledge Plaza
-  Sphere
-Spiceworks
-KB Vault
-Owl Intranet Knowledgebase
-RTFM
+Open Graph
 
 vsChart
 LeanStack
@@ -41,6 +35,14 @@ SumAll
 Tableau
 iData3
 CaptureSaver
+
+Crowdbase
+Knowledge Plaza
+  Sphere
+Spiceworks
+KB Vault
+Owl Intranet Knowledgebase
+RTFM
 
 http://sourceforge.net/directory/business-enterprise/knowledgemanagement/os:linux/freshness:recently-updated/
 
@@ -352,6 +354,7 @@ Alfred
 
 Mover
 
+Enpass
 LastPass
 Cue (formerly Greplin)
 Toggl

@@ -15,6 +15,7 @@ Meeco
 
 Freebase
 Silk
+Open Graph
 
 UNIX Tools
 
@@ -70,9 +71,10 @@ Liquid
 
 Natural History Museum
 
-### Information
+### All Storage
 
 DEVON
+  DEVONthink | DEVONnote | DEVONagent
 Notational Velocity
 
 Evernote
