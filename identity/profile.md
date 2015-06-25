@@ -26,12 +26,38 @@ http://
 http://
 http://
 
-## Company Info URL
+Info URL
+--------
 
-About
-  Wikipedia
-  CrunchBase
-  AngelLIst
+### Wikipedia
+
+### CrunchBase
+
+### AngelList
+
+Social URL
+----------
+
+### Twitter
+
+https://twitter.com/satellid
+
+@Satellid
+@SatellidBot
+@SatellidDevelop
+@SatellidDesign
+
+### Google+
+
++Satellid
+
+### Facebook
+
+https://facebook.com/satellid
+
+### YouTube
+
+https://youtube.com/channel/UCxnzlpaaar0QL8ZzFXWvmdA
 
 ## Mission Statement
 
@@ -43,6 +69,11 @@ Expanding and Conneting Knowledge
 + Rapidly manage and structure your knowledge
 
 ## Tagline/Slogan
+
++ Space for your knowledge|mind
++ Dashboard of your knowledge|mind
++ Library space of your mind and knowledge
++ Collect and manage your knowledge
 
 + Your knowledge, organized
 + Always remember and organize your knowledge
@@ -60,15 +91,6 @@ Expanding and Conneting Knowledge
 Customer list
 Testimonials
 Case Study
-
-## Social
-
-@Satellid
-@SatelidBot
-@SatelidDevelop
-@SatelidDesign
-
-+Satellid
 
 ## Blog RSS or Feed URL
 

@@ -38,6 +38,7 @@ Book
 Visualization
 -------------
 
+Mind Map
 Graphviz
 
 Animation
@@ -52,6 +53,11 @@ Hooked Model
 
 Business Model Canvas
 ---------------------
+
+...
+
+Audit Log
+---------
 
 ...
 

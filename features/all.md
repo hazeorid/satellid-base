@@ -352,10 +352,12 @@ Manage
 Drag
 Custom
 
-Import/Export
--------------
+Data & Files
+------------
 
+Import/Export
 Backup
+Rename raw data automatically based on slug
 
 [Data File Type]
 

@@ -210,6 +210,11 @@ Phone
   Landline
   Fax
 
+Birth Date
+Birth Location
+
+Blood Type
+
 ### Curriculum Vitae
 
 Resume
@@ -309,6 +314,8 @@ Dependency
 Guide
 -----
 
+### Tutorial
+
 ### Study
 
 ### Recipe
@@ -394,19 +401,18 @@ Board
 
 Journalism
 
-References/Bibliography
------------------------
+Publication
+-----------
 
+References
+Bibliography
+Transcription
 Book
 Paper
 Journal
 
 Multimedia
 ----------
-
-### Slide
-
-Transcription
 
 ### Audio
 
@@ -417,8 +423,32 @@ Sheet music
 
 Transcription
 
+Idea
+----
+
+...
+
+Culinary
+--------
+
+### Food
+
+### Drink
+
+Flora
+-----
+
+### Fruit
+
+### Vegetable
+
+Fauna
+-----
+
+...
 
 
+*  *  *  *  *
 
 General Planning
 ----------------
@@ -434,6 +464,8 @@ Movies
 Music
 Shopping
 
+*  *  *  *  *
+
 View
 ----
 
@@ -445,6 +477,9 @@ Minimal
 Maximal
 
 ### Layout
+
+
+### Tutorial
 
 One
 Combination

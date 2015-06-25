@@ -34,6 +34,7 @@ Ecosystem Friendly
 
 ### Benefit
 
++ Unified place to store all kinds of knowledge structuredly
 + Retain and retrieve your knowledge, as quickly and effective as possible
 + Organize your knowledge in a fast and structured way
 + Enhance your knowledge and organize it best with a system
@@ -46,6 +47,10 @@ Ecosystem Friendly
 + Recover forgotten things in mind
 + Distributing decentralized local knowledge onto global knowledge
 + Feeding our motivation and curiosity
++ Keep track of our life and mind activity
++ Acquire new or past knowledge
++ Liberate knowledge outside the traditional separated files and folders
++ Mapping our connected, visible, and realized knowledge
 
 {TODO:CHANGE}
 + Increase productivity and improve communication
@@ -452,6 +457,8 @@ Gaming
 Technology
 Telecommunication
 Travel
+Good
+Social Cause
 
 ### Solutions
 

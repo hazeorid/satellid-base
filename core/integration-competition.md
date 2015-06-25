@@ -305,8 +305,6 @@ Simplenote
 ### Book/Science/Literature/Paper
 
 Blinkist
-Gibbon
-
 Mendeley
 CiteULike
 
